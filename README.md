@@ -1,33 +1,16 @@
-# GitUsersApp
-This is demo of git users application with bloc design pattern.
+# flutter_github_demo
 
+A new Flutter project.
 
-Follwed BLoC design pattern.
-Attached Release Version Build with code.
+## Getting Started
 
-Zeroth Screen:
-1. SplashScreen is set with git_icon image.
+This project is a starting point for a Flutter application.
 
-First Screen:
-1. Before Search you will get text to search any user.
-2. Put user name in searchbar to search any user you want.
+A few resources to get you started if this is your first Flutter project:
 
-Second Screen:
-1. After clicking on searched user, you will be navigate to the second Profile Detail screen.
-2. Here you can see details with  profil pic.
-3. Hero animation is provided to the Profile pic.
-4. You can share profile data to other applications.
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-Third Screen:
-1. Clicking on Following or Follwers you will get navigate to Follwers & Following Detail screen.
-2. Here on both tab you will get same list.
-
-
-Only INTERNET permission is used.
-Application icon is also set.
-
-Test:
-Two testcases are written to check the appication API.
-
-1. Details Of User by providing login.
-2. Searched users list by providing login and cheking with "total_count".
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
